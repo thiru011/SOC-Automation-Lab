@@ -1,0 +1,6 @@
+*.log
+*.key
+.env
+secrets/
+.DS_Store
+Thumbs.db
