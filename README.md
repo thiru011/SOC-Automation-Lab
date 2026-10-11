@@ -692,8 +692,8 @@ MIT License — see [LICENSE](LICENSE).
 ## 👤 Author
 
 **[Thirumoorthy  l]**
-- GitHub: [https://github.com/thiru011]
-- LinkedIn: [https://linkedin.com/in/thiru234]
+- GitHub: [@thiru011](https://github.com/thiru011)
+- LinkedIn: [Thirumoorthy L](https://linkedin.com/in/thiru234)
 
 ---
 
